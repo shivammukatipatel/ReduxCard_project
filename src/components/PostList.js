@@ -1,4 +1,4 @@
-// src/components/PostList.js
+
 import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { fetchPosts, removePost, changePage } from "../redux/postsSlice";
